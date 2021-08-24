@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>
+
+What is the basic principle that causes material to emit light? 
+
+</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<body style="background:black;color:white">
+
+
+
+<div>
+
+ <p>
+<a href="/"   style="color:#08c" >ree/radiant energy engineering</a>&nbsp;
+<h1><span style="color: #ff8300;font-size:70px;">ॠ</span></h1>
+
+</p>
+ 
+<p>
+
+<h1>
+
+What is the basic principle that causes material to emit light? 
+
+</h1>
+
+
+</p>
+<p>
+
+A lighting device is basically a transducer converting the input energy into light. A candle is a lighting device that converts chemical energy to light.  An led is a lighting device that converts electrical energy to light.  
+
+</p>
+
+<p>
+
+The basic emission principle is the interaction of energy and matter. In an led when electrical energy interacts with semiconductor matter , electrons absorb that energy. The amount of energy they can absorb and hence radiate is limited  by their band gap (an intrinsic property which can be engineered to some extent). When they relax they release the absorbed energy as light.   In a candle when the soot vapor gains enough heat it starts glowing orange/red. Any material when it absorbs energy starts emitting it. 
+
+</p>
+
+<p>
+
+Now the question arises if both an led and a candle simply emit light why use one and not the other? 
+
+</p>
+
+
+<p>
+Here the question is of efficiency.  For every input joule of energy we want to maximize the output light. Heat is wasteful. And mostly so is non visible spectrum of light. A device meant to illuminate is not much good if it  radiates microwaves no matter how efficiently. 
+
+</p>
+
+<p>
+
+LEDs score well on both counts. They don't (comparatively speaking) waste  energy as heat and they radiate in spectrum to which human eye is sensitive. 
+
+</p>
+
+<p>
+As soon as matter gains energy it starts radiating but for it to be useful as a light source  it needs to radiate at wavelengths which we can see. 
+</p>
+
+<p>
+
+<h1>
+
+#light #energy  #matter
+
+</h1>
+
+
+</p>
+
+<p>
+
+<hr/>
+<i>You are free to share and distribute the text on this page in any form.</i>
+
+
+</p>
+
+</div>
+
+</body>
+</html>
